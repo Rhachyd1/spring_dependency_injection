@@ -1,4 +1,7 @@
 /home/rhd/Dev/Java/SpringBoot/spring_dependency_injection/src/main/java/com/rhd/spring6/projectdependencyinjection/dependency_injection/DependencyInjectionApplication.java
+/home/rhd/Dev/Java/SpringBoot/spring_dependency_injection/src/main/java/com/rhd/spring6/projectdependencyinjection/dependency_injection/controller/SetterInjectedController.java
 /home/rhd/Dev/Java/SpringBoot/spring_dependency_injection/src/main/java/com/rhd/spring6/projectdependencyinjection/dependency_injection/controller/MyController.java
+/home/rhd/Dev/Java/SpringBoot/spring_dependency_injection/src/main/java/com/rhd/spring6/projectdependencyinjection/dependency_injection/controller/PropertyInjectedController.java
 /home/rhd/Dev/Java/SpringBoot/spring_dependency_injection/src/main/java/com/rhd/spring6/projectdependencyinjection/dependency_injection/services/GreetingService.java
+/home/rhd/Dev/Java/SpringBoot/spring_dependency_injection/src/main/java/com/rhd/spring6/projectdependencyinjection/dependency_injection/controller/ConstructorInjectedController.java
 /home/rhd/Dev/Java/SpringBoot/spring_dependency_injection/src/main/java/com/rhd/spring6/projectdependencyinjection/dependency_injection/services/GreetingServiceImpl.java
