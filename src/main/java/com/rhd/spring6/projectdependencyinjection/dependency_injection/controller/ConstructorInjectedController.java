@@ -1,7 +1,10 @@
 package com.rhd.spring6.projectdependencyinjection.dependency_injection.controller;
 
+import org.springframework.stereotype.Controller;
+
 import com.rhd.spring6.projectdependencyinjection.dependency_injection.services.GreetingService;
 
+@Controller
 public class ConstructorInjectedController {
 
     private final GreetingService greetingService;
@@ -11,6 +14,7 @@ public class ConstructorInjectedController {
     }
     
     public String sayHello(){
+        System.out.println("ConstructorInjectedController");
         return greetingService.sayGreString();
     }
 }
