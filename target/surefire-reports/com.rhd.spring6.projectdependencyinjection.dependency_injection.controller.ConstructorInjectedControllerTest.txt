@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.rhd.spring6.projectdependencyinjection.dependency_injection.controller.ConstructorInjectedControllerTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.529 s - in com.rhd.spring6.projectdependencyinjection.dependency_injection.controller.ConstructorInjectedControllerTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.676 s - in com.rhd.spring6.projectdependencyinjection.dependency_injection.controller.ConstructorInjectedControllerTest

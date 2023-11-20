@@ -1,14 +1,17 @@
 package com.rhd.spring6.projectdependencyinjection.dependency_injection.services;
 
+import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;
 
+@Primary
 @Service
-public class GreetingServiceImpl implements GreetingService {
-
+public class GreetingServicePrimary implements GreetingService{
+    
+    
     @Override
     public String sayGreString() {
-        System.out.println("Hi!");
-        return "Hi, Im not the Primary!";
+       return "Hello from primary bean";
     }
+
     
 }
