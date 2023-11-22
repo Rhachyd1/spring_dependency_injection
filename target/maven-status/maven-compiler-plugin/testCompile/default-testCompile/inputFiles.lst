@@ -1,4 +1,6 @@
 /home/rhd/Dev/Java/SpringBoot/spring_dependency_injection/src/test/java/com/rhd/spring6/projectdependencyinjection/dependency_injection/controller/MyControllerTest.java
+/home/rhd/Dev/Java/SpringBoot/spring_dependency_injection/src/test/java/com/rhd/spring6/projectdependencyinjection/dependency_injection/controller/i18n/I18NControllerTestEn.java
+/home/rhd/Dev/Java/SpringBoot/spring_dependency_injection/src/test/java/com/rhd/spring6/projectdependencyinjection/dependency_injection/controller/i18n/I18NControllerTestEs.java
 /home/rhd/Dev/Java/SpringBoot/spring_dependency_injection/src/test/java/com/rhd/spring6/projectdependencyinjection/dependency_injection/controller/SetterInjectedControllerTest.java
 /home/rhd/Dev/Java/SpringBoot/spring_dependency_injection/src/test/java/com/rhd/spring6/projectdependencyinjection/dependency_injection/DependencyInjectionApplicationTests.java
 /home/rhd/Dev/Java/SpringBoot/spring_dependency_injection/src/test/java/com/rhd/spring6/projectdependencyinjection/dependency_injection/controller/PropertyInjectedControllerTest.java
