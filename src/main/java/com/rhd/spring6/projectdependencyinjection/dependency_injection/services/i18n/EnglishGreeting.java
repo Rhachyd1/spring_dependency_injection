@@ -5,7 +5,7 @@ import org.springframework.stereotype.Service;
 
 import com.rhd.spring6.projectdependencyinjection.dependency_injection.services.GreetingService;
 
-@Profile("EN")
+@Profile({"EN", "default"})
 @Service("i18NService")
 public class EnglishGreeting implements GreetingService{
 
