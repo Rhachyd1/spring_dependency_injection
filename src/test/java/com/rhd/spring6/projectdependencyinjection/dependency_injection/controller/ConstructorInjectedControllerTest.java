@@ -1,5 +1,7 @@
 package com.rhd.spring6.projectdependencyinjection.dependency_injection.controller;
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -14,7 +16,7 @@ public class ConstructorInjectedControllerTest {
 
     @Test
     public void sayHelloTest(){
-        System.out.println(constructorInjectedController.sayHello());
+        assertEquals("Hi, Im not the Primary!", constructorInjectedController.sayHello());
     }
 
     
